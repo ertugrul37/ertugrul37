@@ -12,7 +12,7 @@
  <a href="https://stackoverflow.com/users/16216542/ertu%c4%9frul-g%c3%bcne%c5%9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ertuğrul güneş" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ertu%C4%9Frul-g%C3%BCne%C5%9F-797253207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertuğrul güneş" height="30" width="40" /></a>
 <a href="https://instagram.com/ertugrull.gns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrull.gns" height="30" width="40" /></a>
-<a href="https://discord.gg/Guetrotr#7489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ertugrull.gns#0434" height="30" width="40" /></a>
+<a href="https://discord.gg/Guetrotr #7489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ertugrull.gns#0434" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
