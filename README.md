@@ -13,10 +13,10 @@
 <a href="https://www.linkedin.com/in/ertu%C4%9Frul-g%C3%BCne%C5%9F-797253207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertuğrul güneş" height="30" width="40" /></a>
 <a href="https://instagram.com/ertugrull.gns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrull.gns" height="30" width="40" /></a>
  
-<h3 align="center">Languages:</h3>
+<h3 align="left">Languages:</h3>
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  
-   <h3 align="right">Adobe programs:</h3>
+   <h3 align="left">Adobe programs:</h3>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><br><br>
 <p>
 <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrul37&show_icons=true&locale=en&layout=compact" alt="ertugrul37" />
