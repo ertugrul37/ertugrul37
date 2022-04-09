@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrul37&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrul37" /> </p>
 
+### 👩🏻‍💻 &nbsp;About Me
 
+- 🔭 I’m currently learning mobile programming 😋
+- 👯 I’m looking to collaborate with other Java and Mobile Developers 👩🏻‍💻
+- 🤔 I’m looking for help with mobile programming 🥰
 
 - 📫 How to reach me **ertugrulgunese90@gmail.com** 
 
