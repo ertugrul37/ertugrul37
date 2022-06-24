@@ -18,9 +18,9 @@
 <a href="https://instagram.com/ertugrull.gns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrull.gns" height="30" width="40" /></a>
  
 <h3 align="left">Languages:</h3>
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="[https://www.sqlite.org/index.html]" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="60" height="40"/> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-  <a href="[https://www.sqlite.org/index.html]" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="60" height="40"/>
+  
  
 
  ### ⚙️ &nbsp;GitHub Analytics
