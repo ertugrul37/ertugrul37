@@ -4,9 +4,8 @@
 
 ###  &nbsp;About Me
 
--  💻 I’m currently learning mobile programming 
--  💻 I’m looking to collaborate with other Java and Mobile Developers 
--  💻 I’m looking for help with mobile programming 
+-  💻 I’m currently learning Backend programming 
+-  💻 I’m looking to collaborate with other Backend Developers 
 - 📫 How to reach me **ertugrulgunese90@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
